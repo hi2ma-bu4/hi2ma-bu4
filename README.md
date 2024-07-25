@@ -7,5 +7,7 @@
 
 <!--
 いらないのでコメントアウト
+[![trophy](https://github-profile-trophy.vercel.app/?username=hi2ma-bu4&theme=onedark)]([https://github-profile-trophy.vercel.app/?username=hi2ma-bu4&theme=tokyonight](https://github.com/ryo-ma/github-profile-trophy))
+
 [![codeium](https://codeium.com/profile/snow/card.png)](https://codeium.com/profile/snow)
 -->
