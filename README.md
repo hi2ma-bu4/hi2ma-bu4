@@ -18,7 +18,7 @@
   <picture >
     <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hi2ma-bu4&theme=github_dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hi2ma-bu4&theme=github">
-    <img alt="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hi2ma-bu4&theme=github" height="200px">
+    <img alt="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hi2ma-bu4&theme=github" width="700px">
   </picture>
 </a>
 
