@@ -4,7 +4,13 @@
 
 <details>
 <summary></summary>
-  hoge
+<a href="https://github.com/Platane/snk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hi2ma-bu4/hi2ma-bu4/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hi2ma-bu4/hi2ma-bu4/output/snake-light.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hi2ma-bu4/hi2ma-bu4/output/snake-light.svg">
+  </picture>
+</a>
 </details>
 
 [![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hi2ma-bu4&theme=discord_old_blurple)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
