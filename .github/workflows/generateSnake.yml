@@ -1,19 +1,11 @@
-name: generate snake
+name: Generate snake
 
 on:
   # 24時間ごとに自動的に実行
   schedule:
     - cron: "0 */24 * * *" 
-  
   # 手動実行用
   workflow_dispatch:
-  
-  # main にプッシュする度に実行
-  push:
-    branches:
-    - main
-    
-  
 
 jobs:
   generate:
@@ -23,20 +15,20 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # svgの生成
-      - name: generate github-contribution-grid-snake.svg
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+        
+      - name: snake.svg の生成
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake-light.svg
+            dist/snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-          
-      # /output に出力
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: output にsvgを出力
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
