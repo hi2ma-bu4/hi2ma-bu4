@@ -4,7 +4,7 @@
 
 <details>
 <summary></summary>
-<a href="https://github.com/Platane/snk">
+<a href="https://github.com/Platane/snk" align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hi2ma-bu4/hi2ma-bu4/output/snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hi2ma-bu4/hi2ma-bu4/output/snake-light.svg">
@@ -14,36 +14,36 @@
 </details>
 
 
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hi2ma-bu4&theme=github_dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hi2ma-bu4&theme=github">
-    <img alt="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hi2ma-bu4&theme=github" width="602px">
+    <img alt="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hi2ma-bu4&theme=github" width="602px" align="center">
   </picture>
 </a>
 
 <div>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" align="left">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hi2ma-bu4&theme=github_dark">
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hi2ma-bu4&theme=github">
-      <img alt="Top Languages by Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hi2ma-bu4&theme=github" width="300px">
+      <img alt="Top Languages by Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hi2ma-bu4&theme=github" width="300px" align="center">
     </picture>
   </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" align="left">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hi2ma-bu4&theme=github_dark">
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hi2ma-bu4&theme=github">
-      <img alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hi2ma-bu4&theme=github" width="300px">
+      <img alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hi2ma-bu4&theme=github" width="300px" align="center">
     </picture>
   </a>
 </div>
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats" align="left">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hi2ma-bu4&size_weight=0.5&count_weight=0.5&langs_count=20&layout=compact&disable_animations=true&title_color=0366d6&text_color=77909c&bg_color=0d1117&border_color=2e343b">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hi2ma-bu4&size_weight=0.5&count_weight=0.5&langs_count=20&layout=compact&disable_animations=true">
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi2ma-bu4&size_weight=0.5&count_weight=0.5&langs_count=20&layout=compact&disable_animations=true" width="300px">
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi2ma-bu4&size_weight=0.5&count_weight=0.5&langs_count=20&layout=compact&disable_animations=true" width="300px" align="center">
     </picture>
   </a>
 </div>
