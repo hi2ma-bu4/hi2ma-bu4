@@ -36,7 +36,7 @@
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hi2ma-bu4&size_weight=0.5&count_weight=0.5&langs_count=20&layout=compact&disable_animations=true&theme=github_dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hi2ma-bu4&size_weight=0.5&count_weight=0.5&langs_count=20&layout=compact&disable_animations=true&theme=github_dark&border_color=e4e2e2">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hi2ma-bu4&size_weight=0.5&count_weight=0.5&langs_count=20&layout=compact&disable_animations=true">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi2ma-bu4&size_weight=0.5&count_weight=0.5&langs_count=20&layout=compact&disable_animations=true">
   </picture>
