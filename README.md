@@ -34,6 +34,14 @@
     <img alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hi2ma-bu4&theme=github">
   </picture>
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hi2ma-bu4&langs_count=20&layout=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hi2ma-bu4&langs_count=20&layout=compact">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi2ma-bu4&langs_count=20&layout=compact">
+  </picture>
+</a>
+
 
 <!--
 いらないのでコメントアウト
