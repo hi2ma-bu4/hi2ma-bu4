@@ -1,18 +1,25 @@
+## hi2ma-bu4(snows) Overview
+
+[![Profile views](https://komarev.com/ghpvc/?username=hi2ma-bu4)](https://github.com/hi2ma-bu4)
+
 [GitHub Gist](https://gist.github.com/hi2ma-bu4)
 
-作ることが生きがい
+
+<br>
+<p>作ることが生きがい</p>
 
 <details>
-<summary></summary>
-<a href="https://github.com/Platane/snk" align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hi2ma-bu4/hi2ma-bu4/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hi2ma-bu4/hi2ma-bu4/output/snake-light.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hi2ma-bu4/hi2ma-bu4/output/snake-light.svg">
-  </picture>
-</a>
+  <summary>...?</summary>
+  <a href="https://github.com/Platane/snk" align="left">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hi2ma-bu4/hi2ma-bu4/output/snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hi2ma-bu4/hi2ma-bu4/output/snake-light.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hi2ma-bu4/hi2ma-bu4/output/snake-light.svg">
+    </picture>
+  </a>
 </details>
 
+### Recent Activities
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" align="left">
   <picture>
@@ -21,6 +28,8 @@
     <img alt="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hi2ma-bu4&theme=github" width="602px" align="center">
   </picture>
 </a>
+
+### Languages
 
 <div>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" align="left">
