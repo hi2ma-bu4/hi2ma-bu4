@@ -15,21 +15,21 @@
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hi2ma-bu4&theme=discord_old_blurple">
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hi2ma-bu4&theme=github_dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hi2ma-bu4&theme=github">
     <img alt="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hi2ma-bu4&theme=github">
   </picture>
 </a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hi2ma-bu4&theme=discord_old_blurple">
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hi2ma-bu4&theme=github_dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hi2ma-bu4&theme=github">
     <img alt="Top Languages by Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hi2ma-bu4&theme=github">
   </picture>
 </a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hi2ma-bu4&theme=discord_old_blurple">
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hi2ma-bu4&theme=github_dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hi2ma-bu4&theme=github">
     <img alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hi2ma-bu4&theme=github">
   </picture>
