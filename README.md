@@ -10,6 +10,7 @@
 
 <details>
   <summary>...?</summary>
+  <h3>🌱 Contributions</h3>
   <a href="https://github.com/Platane/snk" align="left">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hi2ma-bu4/hi2ma-bu4/output/snake-dark.svg">
@@ -19,7 +20,7 @@
   </a>
 </details>
 
-### Recent Activities
+### 📝 Recent Activities
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" align="left">
   <picture>
@@ -29,7 +30,7 @@
   </picture>
 </a>
 
-### Languages
+### 🛠️ Languages
 
 <div>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" align="left">
