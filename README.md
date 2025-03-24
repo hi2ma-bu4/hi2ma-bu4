@@ -2,7 +2,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=hi2ma-bu4)](https://github.com/hi2ma-bu4)
 
-[GitHub Gist](https://gist.github.com/hi2ma-bu4)
+[![GitHub Gist](https://img.shields.io/badge/GitHub_Gist-121013?style=flat&logo=github&logoColor=white)](https://gist.github.com/hi2ma-bu4)
 
 
 <br>
