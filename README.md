@@ -4,7 +4,7 @@
 <p>作ることが生きがい</p>
 
 <details>
-  <summary>...?</summary>
+  <summary>Contributions</summary>
   <h2>🌱 Contributions</h2>
   <section align="left">
     <a href="https://github.com/Platane/snk">
@@ -21,7 +21,11 @@
 
 <section align="left">
   <a href="https://gist.github.com/hi2ma-bu4">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub_Gist-3d444d?style=for-the-badge&logo=github&logoColor=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub_Gist-121013?style=for-the-badge&logo=github&logoColor=white">
     <img alt="GitHub Gist" src="https://img.shields.io/badge/GitHub_Gist-121013?style=for-the-badge&logo=github&logoColor=white">
+    </picture>
   </a>
 </section>
 
