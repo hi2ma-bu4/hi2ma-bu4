@@ -1,4 +1,4 @@
-## hi2ma-bu4(snows) Overview
+<h2 align="center">hi2ma-bu4(snows) Overview</h2>
 
 <br>
 <p>作ることが生きがい</p>
@@ -67,7 +67,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hi2ma-bu4/hi2ma-bu4/output/snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hi2ma-bu4/hi2ma-bu4/output/snake-light.svg">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hi2ma-bu4/hi2ma-bu4/output/snake-light.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hi2ma-bu4/hi2ma-bu4/output/snake-light.svg" align="center">
       </picture>
     </a>
   </section>
@@ -84,7 +84,7 @@
         <source media="(max-width: 767px) and (prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=hi2ma-bu4&theme=flat&column=4&title=MultiLanguage%2CCommits%2CRepositories%2CStars%2CExperience%2CFollowers%2CIssues%2CPullRequest">
         <!-- 幅768px未満 & ダークモード -->
         <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=hi2ma-bu4&theme=onedark&no-bg=true&no-frame=true&column=4&title=MultiLanguage%2CCommits%2CRepositories%2CStars%2CExperience%2CFollowers%2CIssues%2CPullRequest">
-        <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=hi2ma-bu4&theme=flat&column=4&title=MultiLanguage%2CCommits%2CRepositories%2CStars%2CExperience%2CFollowers%2CIssues%2CPullRequest">
+        <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=hi2ma-bu4&theme=flat&column=4&title=MultiLanguage%2CCommits%2CRepositories%2CStars%2CExperience%2CFollowers%2CIssues%2CPullRequest" align="center">
       </picture>
     </a>
   </section>
