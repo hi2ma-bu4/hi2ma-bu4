@@ -3,6 +3,8 @@
 <br>
 <p>作ることが生きがい</p>
 
+<p><a href="https://hi2ma-bu4.github.io/RepoShowcase/index.html">ライブラリのサンプル一覧ページ</a></p>
+
 ## 🔗 Connect with me
 
 <section align="left">
