@@ -92,13 +92,13 @@
   <section align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <picture>
-        <!-- 幅768px以上 & ライトモード -->
+        <!-- 幅768px以上 & ライトモード --><!--
         <source media="(min-width: 768px) and (prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=hi2ma-bu4&theme=flat&column=8&title=MultiLanguage%2CCommits%2CRepositories%2CStars%2CExperience%2CFollowers%2CIssues%2CPullRequest">
-        <!-- 幅768px以上 & ダークモード -->
+        <!-- 幅768px以上 & ダークモード --><!--
         <source media="(min-width: 768px) and (prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=hi2ma-bu4&theme=onedark&no-bg=true&no-frame=true&column=8&title=MultiLanguage%2CCommits%2CRepositories%2CStars%2CExperience%2CFollowers%2CIssues%2CPullRequest">
-        <!-- 幅768px未満 & ライトモード -->
+        <!-- 幅768px未満 & ライトモード --><!--
         <source media="(max-width: 767px) and (prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=hi2ma-bu4&theme=flat&column=4&title=MultiLanguage%2CCommits%2CRepositories%2CStars%2CExperience%2CFollowers%2CIssues%2CPullRequest">
-        <!-- 幅768px未満 & ダークモード -->
+        <!-- 幅768px未満 & ダークモード --><!--
         <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=hi2ma-bu4&theme=onedark&no-bg=true&no-frame=true&column=4&title=MultiLanguage%2CCommits%2CRepositories%2CStars%2CExperience%2CFollowers%2CIssues%2CPullRequest">
         <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=hi2ma-bu4&theme=flat&column=4&title=MultiLanguage%2CCommits%2CRepositories%2CStars%2CExperience%2CFollowers%2CIssues%2CPullRequest" align="center">
       </picture>
