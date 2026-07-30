@@ -18,6 +18,16 @@
   </a>
 </section>
 
+## 🎮 Status
+<section align="left">
+  <a href="https://github.com/hi2ma-bu4/github-game-status">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hi2ma-bu4/hi2ma-bu4/output/game-status.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hi2ma-bu4/hi2ma-bu4/output/game-status.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hi2ma-bu4/hi2ma-bu4/output/game-status.svg" align="center">
+    </picture>
+  </a>
+</section>
 
 ## 📝 Recent Activities
 
@@ -50,6 +60,7 @@
       </picture>
     </a>
   </div>
+  <!--
   <div align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <picture>
@@ -59,6 +70,7 @@
       </picture>
     </a>
   </div>
+  -->
 </section>
 
 <br>
@@ -75,6 +87,7 @@
     </a>
   </section>
 
+  <!--
   <h2>🏆 Trophy</h2>
   <section align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -91,6 +104,7 @@
       </picture>
     </a>
   </section>
+  -->
 </details>
 
 <hr>
