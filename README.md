@@ -24,7 +24,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hi2ma-bu4/hi2ma-bu4/output/game-status.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hi2ma-bu4/hi2ma-bu4/output/game-status.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hi2ma-bu4/hi2ma-bu4/output/game-status.svg" align="center">
+      <img alt="github game style status" src="https://raw.githubusercontent.com/hi2ma-bu4/hi2ma-bu4/output/game-status.svg" align="center">
     </picture>
   </a>
 </section>
