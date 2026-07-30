@@ -28,6 +28,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
+      - name: game-status.svg の生成
+        uses: hi2ma-bu4/github-game-status@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          sub_weapons: 'Node.js,Electron,WASM'
+          accessories: 'VSCode,NetBeans,JetBrains,Unity'
+          output_path: 'dist/game-status.svg'
+          
       - name: output にsvgを出力
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
